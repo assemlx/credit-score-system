@@ -57,7 +57,4 @@ def calculate_credit_score(user_id):
         "mix_score": round(mix_score, 2)
     }
 
-# if __name__ == "__main__":
-#     score, breakdown = calculate_credit_score(1)
-#     print("Credit Score:", score)
-#     print("Breakdown:", breakdown)
+
